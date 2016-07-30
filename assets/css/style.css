@@ -1,0 +1,19 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Jun 9, 2016, 1:41:04 AM
+    Author     : SIMO
+*/
+
+.petit{
+    width: 10px;
+    height: 10px;
+}
+
+.fab{
+    position: fixed;
+    top: 75%;
+}
